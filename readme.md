@@ -6,8 +6,8 @@ With this Kit you can take advantage of the visualization components and dashboa
 This Kit saves a lot of time when you are building an application in Thingworx.
 
 ## Thingworx Web Design KIT content:
- * Entities 			    - WDK_Entities_2.0.twx; WDK_Entities_2.0.xml
- * CSS files			    - wdk_blue; wdk_purple; wdk_teal; wdk_yellow; wdk_darkblue; wdk_darkpurple; wdk_darkteal; wdk_darkyellow
+ * Entities (.twx or .xml)  - WDK_Entities_2.0.twx / WDK_Entities_2.0.xml
+ * CSS files			    - wdk_blue / wdk_purple / wdk_teal / wdk_yellow / wdk_darkblue / wdk_darkpurple / wdk_darkteal / wdk_darkyellow
  * Google Map Extension		- GET FROM PTC MARKETPLACE
  * Progress Gauge Extension	- GET FROM PTC MARKETPLACE
 
