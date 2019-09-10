@@ -5,13 +5,21 @@ The UI Kit allows you to built nice user interfaces for your Thingworx apps.
 With this Kit you can take advantage of the visualization components and dashboards already built and styled in a nice matter.
 This Kit saves a lot of time when you are building an application in Thingworx.
 
-# Thingworx Web Design KIT content:
- * Entities 			- WDK_Entities_2.0.twx
- * CSS files			- css.zip
- * Google Map Extension		- get from Marketplace
- * Progress Gauge Extension	- get from Marketplace
+## Thingworx Web Design KIT content:
+ * Entities 			    - WDK_Entities_2.0.twx; WDK_Entities_2.0.xml
+ * CSS files			    - wdk_blue; wdk_purple; wdk_teal; wdk_yellow; wdk_darkblue; wdk_darkpurple; wdk_darkteal; wdk_darkyellow
+ * Google Map Extension		- GET FROM PTC MARKETPLACE
+ * Progress Gauge Extension	- GET FROM PTC MARKETPLACE
 
-# Configuration and Usage
+## Installing the Thingworx Web Design Kit
+ * From a web browser, launch ThingWorx
+ * Log into Thingworx as an Administrator
+ * Go to Import/Export and Import Google Map and Progress Gauge that you previously downloaded from MARKETPLACE
+ * Refresh your Composer
+ * Go to Import/Export and Import WDK_Entities (.twx or .xml)
+ * Go to Repositories/SystemRepositories and upload all 8 css file
+
+## Configuration and Usage
 
 Once Thingworx Web Design Kit entities and extensions are imported you can start using it.
 
@@ -20,9 +28,6 @@ Once Thingworx Web Design Kit entities and extensions are imported you can start
  * All mashups must have WDK_Master selected 
  * All css files are accessed from the master
  * For new themes just duplicate an existing css theme from repository and change the primary colors in an editor
-
-
-
 
 ## Usage
 Thingworx Web Design Kit can be used in the following way:
