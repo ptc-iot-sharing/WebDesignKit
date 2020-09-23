@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a2f35;
+        stroke: #40444a;
+        stroke-width: 3.333px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="52" cy="52" r="50"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-2" d="M68.01,70.635V32.43a2.385,2.385,0,0,0-3.663-2.059C62.888,31.2,33.727,48,31.238,49.435a2.369,2.369,0,0,0,0,4.139C33.029,54.627,62.3,71.509,64.421,72.681A2.372,2.372,0,0,0,68.01,70.635Z"/>
+</svg>

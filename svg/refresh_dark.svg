@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a2f35;
+        stroke: #40444a;
+        stroke-width: 3.333px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="52" cy="52" r="50"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M69.7,33.222a25.05,25.05,0,0,0-18.409-7.889A26.3,26.3,0,1,0,76.6,58.205H69.7A19.581,19.581,0,0,1,51.291,71.354a19.723,19.723,0,0,1,0-39.447A19.1,19.1,0,0,1,65.1,37.825L54.579,48.344H77.589V25.333Z"/>
+</svg>

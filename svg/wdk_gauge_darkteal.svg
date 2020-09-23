@@ -1,0 +1,54 @@
+<svg id="cpu_gauge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="405" height="403" viewBox="0 0 405 403">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #0b0b0b;
+        fill-opacity: 0.7;
+      }
+
+      .cls-3 {
+        fill: #1e1e1e;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #009688;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        opacity: 0.1;
+      }
+
+      .cls-6 {
+        fill: #161616;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="202.672" y1="402.906" x2="202.672" y2="0.594" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b2f33"/>
+      <stop offset="0.127" stop-color="#4d555c"/>
+      <stop offset="0.259" stop-color="#383f45"/>
+      <stop offset="0.464" stop-color="#0e1114"/>
+      <stop offset="0.645" stop-color="#454c52"/>
+      <stop offset="0.806" stop-color="#15191c"/>
+      <stop offset="1" stop-color="#393d40"/>
+    </linearGradient>
+  </defs>
+  <g id="bg">
+    <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="202.672" cy="201.75" rx="202.297" ry="201.156"/>
+    <ellipse class="cls-2" cx="202.687" cy="201.734" rx="188.094" ry="187.109"/>
+  </g>
+  <g id="gradient">
+    <path id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-3" d="M320.092,263.839C330.563,245.916,346.408,209.857,337,167,320.869,93.513,257.4,57,192,57,78.44,57-18.337,165.972,35.791,288.109a185.515,185.515,0,0,1-21.2-86.375C14.594,98.4,98.806,14.625,202.687,14.625S390.781,98.4,390.781,201.734a185.528,185.528,0,0,1-20.654,85.331"/>
+    <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-4" d="M319.126,264.468C329.874,246.117,345.174,210.791,336,169,319.869,95.513,257.4,59,192,59,78.44,59-17.337,167.972,36.791,290.109a187.072,187.072,0,1,1,352.99-86.375c0,30.738-8.451,59.745-21.654,85.331"/>
+  </g>
+  <path id="glow" class="cls-5" d="M202.688,0.592A202.407,202.407,0,0,1,382.166,108.868c-109.407-5.339-306.923,86.81-353.958,194.744A199.384,199.384,0,0,1,.4,201.757C0.4,90.657,90.967.592,202.688,0.592Z"/>
+  <ellipse id="pointer" class="cls-6" cx="202.672" cy="201.75" rx="9.797" ry="9.75"/>
+</svg>

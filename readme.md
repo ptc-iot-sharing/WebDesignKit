@@ -6,8 +6,8 @@ With this Kit you can take advantage of the visualization components and dashboa
 This Kit saves a lot of time when you are building an application in Thingworx.
 
 ## Thingworx Web Design KIT content:
- * Entities (.twx or .xml)  - WDK_Entities_2.0.twx / WDK_Entities_2.0.xml
- * CSS files			    - wdk_blue / wdk_purple / wdk_teal / wdk_yellow / wdk_darkblue / wdk_darkpurple / wdk_darkteal / wdk_darkyellow
+ * Entities (.twx or .xml)  - WDK_Entities_2.1.twx / WDK_Entities_2.1.xml
+ * SVG file folder			- All Svg needed for WDK
  * Google Map Extension		- GET FROM PTC MARKETPLACE
  * Progress Gauge Extension	- GET FROM PTC MARKETPLACE
 
@@ -17,7 +17,7 @@ This Kit saves a lot of time when you are building an application in Thingworx.
  * Go to Import/Export and Import Google Map and Progress Gauge that you previously downloaded from MARKETPLACE
  * Refresh your Composer
  * Go to Import/Export and Import WDK_Entities (.twx or .xml)
- * Go to Repositories/SystemRepositories and upload all 8 css file
+ * Go to Repositories/SystemRepositories and upload all svg files
 
 ## Configuration and Usage
 
@@ -26,8 +26,6 @@ Once Thingworx Web Design Kit entities and extensions are imported you can start
 ## Configuration
 
  * All mashups must have WDK_Master selected 
- * All css files are accessed from the master
- * For new themes just duplicate an existing css theme from repository and change the primary colors in an editor
 
 ## Usage
 Thingworx Web Design Kit can be used in the following way:

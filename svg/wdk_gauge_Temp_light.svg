@@ -1,0 +1,56 @@
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="405" height="405" viewBox="0 0 405 405">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #f0eded;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fdf9f9;
+        fill-opacity: 0.8;
+        stroke: #cecfcf;
+      }
+
+      .cls-3 {
+        fill: #d8d5d5;
+        opacity: 0.2;
+      }
+
+      .cls-4 {
+        opacity: 0.5;
+      }
+
+      .cls-5 {
+        font-size: 24px;
+        opacity: 0.7;
+        text-anchor: middle;
+        font-family: "Segoe UI";
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="202.672" y1="223" x2="202.672" y2="0.594" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9e5e5"/>
+      <stop offset="0.127" stop-color="#f1efef"/>
+      <stop offset="0.259" stop-color="#fff"/>
+      <stop offset="0.464" stop-color="#fff"/>
+      <stop offset="0.645" stop-color="#bcbcbc"/>
+      <stop offset="0.806" stop-color="#e7e7e7"/>
+      <stop offset="1" stop-color="#727272"/>
+    </linearGradient>
+  </defs>
+  <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" d="M404.969,201.75c0-111.1-90.572-201.156-202.3-201.156S0.375,90.655.375,201.75c0,7.115,1.1,21.069,1.1,21.069L403.667,223S404.969,205.179,404.969,201.75Z"/>
+  <path class="cls-2" d="M202.687,14.625c93.173,0,170.524,67.391,185.48,155.847C367.886,174.638,317,184,317,184s-41.5-12-114-12S86,185,86,185s-29.7-4.486-69.346-11.052C30.147,83.788,108.3,14.625,202.687,14.625Z"/>
+  <ellipse id="pointer" class="cls-3" cx="202.672" cy="201.75" rx="9.797" ry="9.75"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-4" d="M220.143,156.337a1.437,1.437,0,0,0-1.962.524,5.077,5.077,0,0,1-8.8,0,1.435,1.435,0,0,0-2.485,0,5.078,5.078,0,0,1-8.8,0,1.436,1.436,0,0,0-2.486,0,5.078,5.078,0,0,1-8.8,0,1.435,1.435,0,1,0-2.485,1.437,7.945,7.945,0,0,0,12.526,1.622,7.941,7.941,0,0,0,11.283,0,7.945,7.945,0,0,0,12.525-1.623A1.435,1.435,0,0,0,220.143,156.337Zm-10.759-6.119a1.435,1.435,0,1,0-2.485,1.437,7.948,7.948,0,0,0,13.768,0,1.435,1.435,0,1,0-2.485-1.437A5.078,5.078,0,0,1,209.384,150.218Zm-18.166,5.412a7.977,7.977,0,0,0,6.884-3.975,1.435,1.435,0,1,0-2.485-1.437,5.078,5.078,0,0,1-8.8,0,1.436,1.436,0,0,0-2.486,1.437A7.978,7.978,0,0,0,191.218,155.63Zm11.315,2.181a3.807,3.807,0,0,0,1.435-7.334V147.5h4.876a1.436,1.436,0,1,0,0-2.871h-4.876V142.18h4.876a1.436,1.436,0,1,0,0-2.871h-4.876v-2.444h4.876a1.435,1.435,0,1,0,0-2.87h-4.876v-1.833a1.436,1.436,0,0,0-2.871,0v18.315A3.807,3.807,0,0,0,202.533,157.811Z"/>
+  <text id="C" class="cls-5" x="83.5" y="209"><tspan x="83.5">C</tspan></text>
+  <text id="H" class="cls-5" x="316.5" y="209"><tspan x="316.5">H</tspan></text>
+</svg>
