@@ -34,3 +34,5 @@ Thingworx Web Design Kit can be used in the following way:
  * You can switch to a top menu layout by pressing the arrow near the logo
  * By pressing the top right color selection icon you can choose a theme (4 light themes and 4 dark themes)
  * Customize the dashboards by adding your own data to it
+
+#This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite. This project is licensed under the terms of the MIT license#
